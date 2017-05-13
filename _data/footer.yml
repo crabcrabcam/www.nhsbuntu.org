@@ -3,6 +3,8 @@
     link: /blog/
   - name: About
     link: /about/
+  - name: Technical Details
+    link: /technical/
 - links:
   - name: Twitter
     link: https://twitter.com/nhsbuntu
