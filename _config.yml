@@ -48,6 +48,11 @@ defaults:
       path: "about.html"
     values:
       layout: "page"
+   -
+    scope:
+      path: "technical.html"
+    values:
+      layout: "page"
   -
     scope:
       path: "team.html"
